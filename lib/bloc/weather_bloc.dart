@@ -1,8 +1,8 @@
 import 'dart:async';
 
 import 'package:bloc/bloc.dart';
-import 'package:cubit_practice/models/weather.dart';
-import 'package:cubit_practice/repository/weather_repository.dart';
+import '../models/weather.dart';
+import '../repository/weather_repository.dart';
 import 'package:equatable/equatable.dart';
 
 part 'weather_event.dart';

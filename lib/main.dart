@@ -1,7 +1,7 @@
-import 'package:cubit_practice/bloc/weather_bloc.dart';
-import 'package:cubit_practice/cubit/weather_cubit.dart';
-import 'package:cubit_practice/pages/weather_search_page.dart';
-import 'package:cubit_practice/repository/weather_repository.dart';
+import 'bloc/weather_bloc.dart';
+import 'cubit/weather_cubit.dart';
+import 'pages/weather_search_page.dart';
+import 'repository/weather_repository.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

@@ -1,5 +1,5 @@
-import 'package:cubit_practice/bloc/weather_bloc.dart';
-import 'package:cubit_practice/models/weather.dart';
+import '../bloc/weather_bloc.dart';
+import '../models/weather.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

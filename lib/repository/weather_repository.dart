@@ -1,6 +1,6 @@
 import 'dart:math';
 
-import 'package:cubit_practice/models/weather.dart';
+import '../models/weather.dart';
 
 abstract class WeatherRepository {
   /// Throws [NetworkException].
